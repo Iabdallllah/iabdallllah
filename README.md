@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<img src="https://gist.github.com/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e#file-hello-gif" alt="Hello Coders" width="60%"/> <br>
+<h2 align="center">👋 Hello! I'm ِAbdallah.</h2>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
 <details>
