@@ -55,7 +55,7 @@ class About extends Me {
 <a  href="https://github.com/iabdallllah">
 
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FMel-iza%2FMel-Iza&psig=AOvVaw38hISNdTnOWN5kiLqptDJg&ust=1756380852757000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJihmtvyqo8DFQAAAAAdAAAAABAE" width="32.5%">
+<img src="https://camo.githubusercontent.com/d27cbd250719954279e2167c376022976f08896104584345fa3937b8fb934e22/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732d756d6265722e76657263656c2e6170702f6170692f63617264732f7265706f732d7065722d6c616e67756167653f757365726e616d653d4d656c2d697a61267468656d653d666c6f72657363656e745f6461686c6961" width="32.5%">
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
 
 </a>
