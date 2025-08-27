@@ -55,18 +55,11 @@ class About extends Me {
 <a  href="https://github.com/iabdallllah">
 
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FMel-iza%2FMel-Iza&psig=AOvVaw38hISNdTnOWN5kiLqptDJg&ust=1756380852757000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJihmtvyqo8DFQAAAAAdAAAAABAE" width="32.5%">
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
 
 </a>
 
-<details>
-  <summary>More stats</summary>
-  
-<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
-
-</details>
-  
 <hr></hr>
 
 **Code Cycle**<br>
