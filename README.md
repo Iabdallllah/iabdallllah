@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<h2 align="center">👋 Hello! I'm ِAbdallah, Data Scientist</h2>
+<h2 align="center">👋 Hello! I'm ِAbdallah, Machine Learning Engineer</h2>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
 <details>
