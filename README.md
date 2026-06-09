@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<h2 align="center">👋 Hello! I'm ِAbdallah, Machine Learning Engineer</h2>
+<h2 align="center">👋 Hello! I'm ِAbdallah, Generative AI Engineer</h2>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
 <details>
@@ -35,11 +35,13 @@
 ```dart
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : { "Python", "Java", "C++", "R" },
-    "Libraries/Frameworks" : { "Pandas", "Numpy", "Matplotlib", "Scikit-learn", "Tensorflow", "Pytorch", "Seaborn" },
+    "ProgrammingLanguages" : { "Python", "Java", "C++", "SQL", "R" },
+    "GenerativeAI" : { "LLMs", "RAG", "Agentic AI", "Prompt Engineering", "LangChain" },
+    "Libraries/Frameworks" : { "Pandas", "NumPy", "Matplotlib", "Scikit-learn", "TensorFlow", "PyTorch", "OpenCV" },
+    "MLOps/Deployment" : { "MLflow", "Flask", "FastAPI" },
     "Database" : { "MySQL" },
-    "Editors" : { "VS Code" },
-    "Platforms" : { "Windows" },
+    "Editors" : { "VS Code", "Jupyter Notebook" },
+    "Platforms" : { "Windows", "Linux" },
     "OtherTools" : { "Git", "GitHub" }
   };
 }
