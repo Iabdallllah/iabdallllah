@@ -185,12 +185,12 @@ Created a real-time gesture tracking system using OpenCV for hand sign language 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Iabdallllah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9d4edd&icon_color=c77dff&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Iabdallllah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9d4edd&icon_color=c77dff&text_color=c9d1d9&v=1" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iabdallllah&theme=tokyonight&hide_border=true&background=0d1117&ring=9d4edd&fire=c77dff&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=9d4edd&sideLabels=9d4edd&dates=c9d1d9" alt="GitHub Streak" width="48%" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iabdallllah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9d4edd&text_color=c9d1d9" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iabdallllah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9d4edd&text_color=c9d1d9&v=1" alt="Top Languages" width="60%" />
 </div>
 
 ---
@@ -200,7 +200,7 @@ Created a real-time gesture tracking system using OpenCV for hand sign language 
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Iabdallllah&theme=onedark&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Iabdallllah&theme=onedark&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&v=1" alt="GitHub Trophies" />
 </div>
 
 ---
