@@ -70,7 +70,7 @@ I am a **Generative AI Engineer** and Computer Science student at Alexandria Uni
 ---
 
 <div align="center">
-  <h2>🧠 AI / ML Expertise</h2>
+  <h2>AI / ML Expertise</h2>
 </div>
 
 | Domain | Proficiency | Details |
@@ -85,11 +85,11 @@ I am a **Generative AI Engineer** and Computer Science student at Alexandria Uni
 ---
 
 <div align="center">
-  <h2>🚀 Featured Projects</h2>
+  <h2>Featured Projects</h2>
 </div>
 
 <details>
-<summary><b>🌱 Intelligent Crop Irrigation Advisor</b></summary>
+<summary><b>Intelligent Crop Irrigation Advisor</b></summary>
 <br>
 
 Built an ML-powered smart irrigation system using IoT sensor data to predict optimal watering schedules based on soil, temperature, humidity, and rainfall, improving water efficiency and crop yield.
@@ -101,7 +101,7 @@ Built an ML-powered smart irrigation system using IoT sensor data to predict opt
 </details>
 
 <details>
-<summary><b>🛡️ Spam Email Detector</b></summary>
+<summary><b>Spam Email Detector</b></summary>
 <br>
 
 Developed an NLP-based classification model to detect spam emails with over 90% accuracy.
@@ -113,7 +113,7 @@ Developed an NLP-based classification model to detect spam emails with over 90% 
 </details>
 
 <details>
-<summary><b>🖐️ Hand Gesture Recognition</b></summary>
+<summary><b>Hand Gesture Recognition</b></summary>
 <br>
 
 Created a real-time gesture tracking system using OpenCV for hand sign language recognition.
@@ -127,7 +127,7 @@ Created a real-time gesture tracking system using OpenCV for hand sign language 
 ---
 
 <div align="center">
-  <h2>💼 Experience</h2>
+  <h2>Experience</h2>
 </div>
 
 ### Data Science Trainee | DEPI
@@ -145,7 +145,7 @@ Created a real-time gesture tracking system using OpenCV for hand sign language 
 ---
 
 <div align="center">
-  <h2>🏆 Achievements</h2>
+  <h2>Achievements</h2>
 </div>
 
 | Recognition | Details |
@@ -157,7 +157,7 @@ Created a real-time gesture tracking system using OpenCV for hand sign language 
 ---
 
 <div align="center">
-  <h2>📜 Certifications</h2>
+  <h2>Certifications</h2>
 </div>
 
 <div align="center">
@@ -169,7 +169,7 @@ Created a real-time gesture tracking system using OpenCV for hand sign language 
 ---
 
 <div align="center">
-  <h2>🏅 Coding Profiles</h2>
+  <h2>Coding Profiles</h2>
 </div>
 
 <div align="center">
@@ -181,7 +181,7 @@ Created a real-time gesture tracking system using OpenCV for hand sign language 
 ---
 
 <div align="center">
-  <h2>📈 GitHub Analytics</h2>
+  <h2>GitHub Analytics</h2>
 </div>
 
 <div align="center">
@@ -196,7 +196,7 @@ Created a real-time gesture tracking system using OpenCV for hand sign language 
 ---
 
 <div align="center">
-  <h2>🏆 GitHub Trophies</h2>
+  <h2>GitHub Trophies</h2>
 </div>
 
 <div align="center">
@@ -206,7 +206,7 @@ Created a real-time gesture tracking system using OpenCV for hand sign language 
 ---
 
 <div align="center">
-  <h2>🔥 Contribution Activity</h2>
+  <h2>Contribution Activity</h2>
 </div>
 
 <div align="center">
@@ -216,7 +216,7 @@ Created a real-time gesture tracking system using OpenCV for hand sign language 
 ---
 
 <div align="center">
-  <h2>🐍 Contribution Snake</h2>
+  <h2>Contribution Snake</h2>
 </div>
 
 <div align="center">
@@ -229,7 +229,7 @@ Created a real-time gesture tracking system using OpenCV for hand sign language 
 ---
 
 <div align="center">
-  <h2>🎯 Current Focus</h2>
+  <h2>Current Focus</h2>
 </div>
 
 ```yaml
