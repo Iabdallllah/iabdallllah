@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=250&section=header&text=Abdallah%20Ahmed%20Mohamed&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Generative%20AI%20Engineer&descAlignY=55&descSize=20" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=250&section=header&text=Abdallah%20Khalifa&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Generative%20AI%20Engineer&descAlignY=55&descSize=20" alt="Header Banner" width="100%" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Generative+AI+Engineer;LLM-Powered+Applications;RAG+Pipelines+%26+AI+Agents;Machine+Learning+%26+NLP" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Generative+AI+Engineer;LLM-Powered+Applications;RAG+Pipelines+%26+AI+Agents;Machine+Learning+%26+Data+Science" alt="Typing SVG" />
   </a>
 </div>
 
@@ -34,7 +34,7 @@
   <h2>👨‍💻 About Me</h2>
 </div>
 
-I am a **Generative AI Engineer** and Computer Science student at Alexandria University, specializing in developing LLM-powered applications, RAG pipelines, and AI agents. I am skilled in integrating AI models into practical solutions, optimizing prompt workflows, and building intelligent systems that enhance decision-making and user experiences. 
+I am a **Generative AI Engineer** and Computer Science student at Alexandria University, specializing in developing LLM-powered applications, RAG pipelines, and AI agents. I am skilled in integrating AI models into practical solutions, optimizing prompt workflows, and building intelligent systems that enhance decision-making and user experiences.
 
 *   **Engineering Focus:** Generative AI, Machine Learning, Deep Learning, and MLOps.
 *   **Methodology:** End-to-end model training, evaluation, optimization, and scalable deployment.
@@ -46,29 +46,24 @@ I am a **Generative AI Engineer** and Computer Science student at Alexandria Uni
   <h2>⚙️ Tech Stack</h2>
 </div>
 
-### 🔹 Languages
+### 🔹 Programming & Core Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,sql,bash&theme=dark" alt="Languages Stack" />
+    <img src="https://skillicons.dev/icons?i=py,sql,bash,git,github,vscode,linux&theme=dark" alt="Languages and Tools Stack" />
   </a>
 </p>
 
-### 🔹 Frontend
-<p align="left">
-  <em>(Focused primarily on backend AI architecture and APIs)</em>
-</p>
-
-### 🔹 Backend & Databases
+### 🔹 Machine Learning & Deep Learning
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask,fastapi&theme=dark" alt="Backend Stack" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,opencv&theme=dark" alt="ML and DL Stack" />
   </a>
 </p>
 
-### 🔹 Cloud, DevOps & Tooling
+### 🔹 MLOps & API Deployment
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Tools Stack" />
+    <img src="https://skillicons.dev/icons?i=flask,fastapi&theme=dark" alt="MLOps Stack" />
   </a>
 </p>
 
@@ -85,7 +80,7 @@ I am a **Generative AI Engineer** and Computer Science student at Alexandria Uni
 | **Deep Learning** | Advanced | TensorFlow, Keras, PyTorch, Neural Networks, CNNs, RNNs/LSTMs |
 | **Data Processing** | Advanced | NumPy, Pandas |
 | **Computer Vision** | Intermediate | OpenCV |
-| **MLOps** | Intermediate | MLflow, Model Deployment, Version Control, Environment Management |
+| **MLOps** | Intermediate | MLflow, API Development (FastAPI, Flask), Model Deployment, Version Control |
 
 ---
 
@@ -181,7 +176,6 @@ Created a real-time gesture tracking system using OpenCV for hand sign language 
   <a href="#"><img src="https://img.shields.io/badge/LeetCode-Iabdallllah-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
   <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Iabdallllah-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
   <a href="#"><img src="https://img.shields.io/badge/HackerRank-Iabdallllah-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/CodeChef-Iabdallllah-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
 </div>
 
 ---
