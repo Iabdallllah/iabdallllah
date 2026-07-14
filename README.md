@@ -1,73 +1,254 @@
-<div align="center" width="50">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=250&section=header&text=Abdallah%20Ahmed%20Mohamed&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Generative%20AI%20Engineer&descAlignY=55&descSize=20" alt="Header Banner" width="100%" />
+</div>
 
-<h2 align="center">👋 Hello! I'm ِAbdallah, Generative AI Engineer</h2>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Generative+AI+Engineer;LLM-Powered+Applications;RAG+Pipelines+%26+AI+Agents;Machine+Learning+%26+NLP" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Alexandria_University-Computer_Science-7b2cbf?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Academic Badge" />
+  <img src="https://img.shields.io/badge/Location-Alexandria,_Egypt-9d4edd?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge" />
+</div>
+<br>
+
+<div align="center">
+  <a href="http://abdalllah.me"><img src="https://img.shields.io/badge/Portfolio-abdalllah.me-5a189a?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/abdallllah/"><img src="https://img.shields.io/badge/LinkedIn-Abdallah_Ahmed_Mohamed-7b2cbf?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:abdallah.khalifa@proton.me"><img src="https://img.shields.io/badge/Email-ProtonMail-9d4edd?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Iabdallllah"><img src="https://img.shields.io/badge/GitHub-Iabdallllah-c77dff?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</div>
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Iabdallllah&color=7b2cbf&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Iabdallllah?color=9d4edd&style=flat-square&logo=github&label=FOLLOWERS" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Iabdallllah?color=c77dff&style=flat-square&logo=github&label=STARS" alt="Stars" />
+</div>
+
+---
+
+<div align="center">
+  <h2>👨‍💻 About Me</h2>
+</div>
+
+I am a **Generative AI Engineer** and Computer Science student at Alexandria University, specializing in developing LLM-powered applications, RAG pipelines, and AI agents. I am skilled in integrating AI models into practical solutions, optimizing prompt workflows, and building intelligent systems that enhance decision-making and user experiences. 
+
+*   **Engineering Focus:** Generative AI, Machine Learning, Deep Learning, and MLOps.
+*   **Methodology:** End-to-end model training, evaluation, optimization, and scalable deployment.
+*   **Open To:** AI Engineering, Machine Learning, and Data Science roles.
+
+---
+
+<div align="center">
+  <h2>⚙️ Tech Stack</h2>
+</div>
+
+### 🔹 Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,sql,bash&theme=dark" alt="Languages Stack" />
+  </a>
+</p>
+
+### 🔹 Frontend
+<p align="left">
+  <em>(Focused primarily on backend AI architecture and APIs)</em>
+</p>
+
+### 🔹 Backend & Databases
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flask,fastapi&theme=dark" alt="Backend Stack" />
+  </a>
+</p>
+
+### 🔹 Cloud, DevOps & Tooling
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Tools Stack" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <h2>🧠 AI / ML Expertise</h2>
+</div>
+
+| Domain | Proficiency | Details |
+| :--- | :---: | :--- |
+| **Generative AI** | Advanced | LLMs, RAG, Agentic AI, Prompt Engineering, LangChain, AI App Development |
+| **Machine Learning** | Advanced | Scikit-learn, Model Evaluation & Optimization |
+| **Deep Learning** | Advanced | TensorFlow, Keras, PyTorch, Neural Networks, CNNs, RNNs/LSTMs |
+| **Data Processing** | Advanced | NumPy, Pandas |
+| **Computer Vision** | Intermediate | OpenCV |
+| **MLOps** | Intermediate | MLflow, Model Deployment, Version Control, Environment Management |
+
+---
+
+<div align="center">
+  <h2>🚀 Featured Projects</h2>
+</div>
 
 <details>
-<p><strong> <summary>  Busy coding & learning :   </summary> </strong></p>
+<summary><b>🌱 Intelligent Crop Irrigation Advisor</b></summary>
+<br>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/) <br>
+Built an ML-powered smart irrigation system using IoT sensor data to predict optimal watering schedules based on soil, temperature, humidity, and rainfall, improving water efficiency and crop yield.
+
+| Stack | Scale | Performance | Security | Impact | Repository |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| `Python` `Scikit-learn` `Pandas` `NumPy` `Matplotlib` | Local/Edge | High | Standard | Improved water efficiency & yield | [View Source](#) |
 
 </details>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=iabdallllah&style=flat&color=orange&label=PROFILE+VIEWS)
-[![telegram badge](https://img.shields.io/badge/Abdallah-grey?style=flat&logo=telegram)](https://t.me/AbdallIah)  
-[![Linkedin badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdallah-khalifa-265aa8165)
+<details>
+<summary><b>🛡️ Spam Email Detector</b></summary>
+<br>
 
+Developed an NLP-based classification model to detect spam emails with over 90% accuracy.
+
+| Stack | Scale | Performance | Security | Impact | Repository |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| `Python` `Scikit-learn` `CountVectorizer` | Model Pipeline | >90% Accuracy | Standard | Enhanced email filtering | [View Source](#) |
+
+</details>
+
+<details>
+<summary><b>🖐️ Hand Gesture Recognition</b></summary>
+<br>
+
+Created a real-time gesture tracking system using OpenCV for hand sign language recognition.
+
+| Stack | Scale | Performance | Security | Impact | Repository |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| `Python` `TensorFlow` `Keras` `OpenCV` | Local Compute | Real-time | Standard | Accessibility innovation | [View Source](#) |
+
+</details>
+
+---
+
+<div align="center">
+  <h2>💼 Experience</h2>
 </div>
 
-<hr></hr>
+### Data Science Trainee | DEPI
+**Jun 2025 – Dec 2025**
+*Comprehensive Data Science Training Program.*
+* Engaged in end-to-end data science workflows, model building, and analysis.
+* **Skills:** `Python` `Machine Learning` `Data Analysis`
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+### Machine Learning Trainee | GTC
+**Aug 2025 – Sep 2025**
+*Intensive Machine Learning Training.*
+* Focused on developing and evaluating machine learning algorithms.
+* **Skills:** `Machine Learning` `Scikit-learn` `Model Optimization`
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=plotly&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
+---
 
-```dart
-class About extends Me { 
-  const myTools = {  
-    "ProgrammingLanguages" : { "Python", "Java", "C++", "SQL", "R" },
-    "GenerativeAI" : { "LLMs", "RAG", "Agentic AI", "Prompt Engineering", "LangChain" },
-    "Libraries/Frameworks" : { "Pandas", "NumPy", "Matplotlib", "Scikit-learn", "TensorFlow", "PyTorch", "OpenCV" },
-    "MLOps/Deployment" : { "MLflow", "Flask", "FastAPI" },
-    "Database" : { "MySQL" },
-    "Editors" : { "VS Code", "Jupyter Notebook" },
-    "Platforms" : { "Windows", "Linux" },
-    "OtherTools" : { "Git", "GitHub" }
-  };
-}
-```
-
-- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently focused on **Generative AI  & Agentic AI**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **LLMs, RAG, LangChain**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Connect with me on [**LinkedIn**](https://www.linkedin.com/in/abdallah-khalifa-265aa8165) or [**Telegram**](https://t.me/AbdallIah)<br>
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: The first computer “bug” was an actual **moth**. <br>
-
-<div align="center" >
-<a  href="https://github.com/iabdallllah">
-
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://camo.githubusercontent.com/d27cbd250719954279e2167c376022976f08896104584345fa3937b8fb934e22/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732d756d6265722e76657263656c2e6170702f6170692f63617264732f7265706f732d7065722d6c616e67756167653f757365726e616d653d4d656c2d697a61267468656d653d666c6f72657363656e745f6461686c6961" width="32.5%">
-
-</a>
-
-<hr></hr>
-
-**Code Cycle**<br>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
-
+<div align="center">
+  <h2>🏆 Achievements</h2>
 </div>
+
+| Recognition | Details |
+| :--- | :--- |
+| **Language Proficiency** | English (B2) |
+| **Language Proficiency** | German (B2) |
+| **Academic Standing** | Pursuing B.Sc. in Computer Science at Alexandria University (Expected 2027) |
+
+---
+
+<div align="center">
+  <h2>📜 Certifications</h2>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/DeepLearning.AI-Machine_Learning_Specialization-7b2cbf?style=for-the-badge&logo=coursera&logoColor=white" alt="DeepLearning.AI" />
+  <img src="https://img.shields.io/badge/DEPI-Data_Science_Training_Program-9d4edd?style=for-the-badge&logo=data&logoColor=white" alt="DEPI" />
+  <img src="https://img.shields.io/badge/GTC-Machine_Learning_Training-c77dff?style=for-the-badge&logo=code&logoColor=white" alt="GTC" />
+</div>
+
+---
+
+<div align="center">
+  <h2>🏅 Coding Profiles</h2>
+</div>
+
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LeetCode-Iabdallllah-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Iabdallllah-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/HackerRank-Iabdallllah-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/CodeChef-Iabdallllah-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+</div>
+
+---
+
+<div align="center">
+  <h2>📈 GitHub Analytics</h2>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Iabdallllah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9d4edd&icon_color=c77dff&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iabdallllah&theme=tokyonight&hide_border=true&background=0d1117&ring=9d4edd&fire=c77dff&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=9d4edd&sideLabels=9d4edd&dates=c9d1d9" alt="GitHub Streak" width="48%" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iabdallllah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9d4edd&text_color=c9d1d9" alt="Top Languages" width="60%" />
+</div>
+
+---
+
+<div align="center">
+  <h2>🏆 GitHub Trophies</h2>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Iabdallllah&theme=onedark&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+</div>
+
+---
+
+<div align="center">
+  <h2>🔥 Contribution Activity</h2>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Iabdallllah&theme=react-dark&bg_color=0d1117&color=c9d1d9&line=9d4edd&point=c77dff&hide_border=true" alt="Contribution Graph" width="100%" />
+</div>
+
+---
+
+<div align="center">
+  <h2>🐍 Contribution Snake</h2>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Iabdallllah/Iabdallllah/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Iabdallllah/Iabdallllah/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <h2>🎯 Current Focus</h2>
+</div>
+
+```yaml
+Current_Status:
+  Learning:
+    - Advanced LLM application development
+    - Deepening knowledge in Agentic AI and LangChain
+  Building:
+    - Intelligent systems utilizing RAG pipelines
+    - End-to-end ML models with FastAPI/Flask integration
+  Exploring:
+    - Optimization techniques for Neural Networks (CNNs/RNNs)
+    - Robust MLOps workflows using MLflow
+  Open_To:
+    - Generative AI Engineering roles
+    - Machine Learning & Data Science opportunities
