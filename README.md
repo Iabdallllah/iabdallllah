@@ -1,10 +1,10 @@
-<div align="center">  <img src="https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=250&section=header&text=Abdallah%20Khalifa&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Generative%20AI%20Engineer&descAlignY=55&descSize=20" alt="Header Banner" width="100%" />
+<div align="center">  <img src="https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=250&section=header&text=Abdallah%20Khalifa&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Applied%20AI%20Engineer&descAlignY=55&descSize=20" alt="Header Banner" width="100%" />
 </div>
 
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Generative+AI+Engineer;LLM-Powered+Applications;RAG+Pipelines+%26+AI+Agents;Machine+Learning+%26+Data+Science" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Applied+AI+Engineer;LLM-Powered+Applications;RAG+Pipelines+%26+AI+Agents;Machine+Learning+%26+Data+Science" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,6 +12,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Alexandria_University-Computer_Science-7b2cbf?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Academic Badge" />
   <img src="https://img.shields.io/badge/Location-Alexandria,_Egypt-9d4edd?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge" />
+  <img src="https://img.shields.io/badge/Phone-%2B201208859892-c77dff?style=for-the-badge&logo=phone&logoColor=white" alt="Phone Badge" />
 </div>
 <br>
 
@@ -40,12 +41,28 @@
 </div>
 
 
-I am a **Generative AI Engineer** and Computer Science student at Alexandria University, specializing in developing LLM-powered applications, RAG pipelines, and AI agents. I am skilled in integrating AI models into practical solutions, optimizing prompt workflows, and building intelligent systems that enhance decision-making and user experiences.
+I am an **Applied AI Engineer** with expertise in developing LLM-powered applications, RAG pipelines, and agentic AI architectures. I am skilled in integrating AI models into scalable solutions utilizing Python, FastAPI, LangChain, and LangGraph. I have a passion for building intelligent systems that enhance decision-making, optimize real-time workflows, and drive automation.
 
 
 *   **Engineering Focus:** Generative AI, Machine Learning, Deep Learning, and MLOps.
 *   **Methodology:** End-to-end model training, evaluation, optimization, and scalable deployment.
-*   **Open To:** AI Engineering, Machine Learning, and Data Science roles.
+*   **Open To:** Applied AI Engineering, Machine Learning, and Data Science roles.
+
+
+---
+
+
+<div align="center">
+  <h2>Education</h2>
+</div>
+
+
+### B.Sc. in Computer Science | Alexandria University
+**Expected Graduation: June 2027**
+
+*Faculty of Science, Alexandria University*
+
+**Relevant Coursework:** Data Structures and Algorithms, Statistics, Database Systems, Artificial Intelligence, Machine Learning, Data Visualization, and Computer Networks
 
 
 ---
@@ -84,18 +101,20 @@ I am a **Generative AI Engineer** and Computer Science student at Alexandria Uni
 
 
 <div align="center">
-  <h2>AI / ML Expertise</h2>
+  <h2>Skills</h2>
 </div>
 
 
 | Domain | Proficiency | Details |
 | :--- | :---: | :--- |
-| **Generative AI** | Advanced | LLMs, RAG, Agentic AI, Prompt Engineering, LangChain, AI App Development |
+| **Generative AI** | Advanced | LLMs, RAG, Agentic AI, Prompt Engineering, LangChain, AI Application Development |
 | **Machine Learning** | Advanced | Scikit-learn, Model Evaluation and Optimization |
 | **Deep Learning** | Advanced | TensorFlow, Keras, PyTorch, Neural Networks, CNNs, RNNs/LSTMs |
 | **Data Processing** | Advanced | NumPy, Pandas |
 | **Computer Vision** | Intermediate | OpenCV |
-| **MLOps** | Intermediate | MLflow, API Development (FastAPI, Flask), Model Deployment, Version Control |
+| **MLOps** | Intermediate | MLflow, API Development (FastAPI, Flask), Model Deployment, Version Control, Reproducibility |
+| **Programming** | Proficient | Python, SQL, Git/GitHub, Jupyter Notebook, VS Code, Linux, Bash |
+| **Soft Skills** | Proficient | Problem Solving, Analytical Thinking, Communication, Teamwork, Adaptability, Time Management |
 
 
 ---
@@ -107,6 +126,38 @@ I am a **Generative AI Engineer** and Computer Science student at Alexandria Uni
 
 
 <details>
+<summary><b>Voxora - AI Interviewer</b></summary>
+<br>
+
+
+A real-time AI-powered interview coaching platform designed to help candidates practice mock interviews through voice interaction. The platform analyzes CVs, understands job descriptions, and conducts adaptive interviews with personalized questions and comprehensive post-session evaluations.
+
+
+| Stack | Scale | Performance | Impact | Repository |
+| :--- | :--- | :--- | :--- | :--- |
+| `LangGraph` `Groq Inference` `FastAPI` `Python` | Production | Real-time | Interview coaching at scale | [View Source](https://github.com/Iabdallllah/Voxora) |
+
+
+</details>
+
+
+<details>
+<summary><b>ChatPDF - RAG System</b></summary>
+<br>
+
+
+An interactive document analysis system driven by RAG to chat with large PDFs, enabling users to query and extract insights from lengthy documents through natural language conversation.
+
+
+| Stack | Scale | Performance | Impact | Repository |
+| :--- | :--- | :--- | :--- | :--- |
+| `LangChain` `Vector Databases` `LLMs` | Production | Efficient | Document analysis at scale | [View Source](#) |
+
+
+</details>
+
+
+<details>
 <summary><b>Intelligent Crop Irrigation Advisor</b></summary>
 <br>
 
@@ -114,41 +165,9 @@ I am a **Generative AI Engineer** and Computer Science student at Alexandria Uni
 Built an ML-powered smart irrigation system using IoT sensor data to predict optimal watering schedules based on soil, temperature, humidity, and rainfall, improving water efficiency and crop yield.
 
 
-| Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| `Python` `Scikit-learn` `Pandas` `NumPy` `Matplotlib` | Local/Edge | High | Standard | Improved water efficiency and yield | [View Source](#) |
-
-
-</details>
-
-
-<details>
-<summary><b>Spam Email Detector</b></summary>
-<br>
-
-
-Developed an NLP-based classification model to detect spam emails with over 90% accuracy.
-
-
-| Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| `Python` `Scikit-learn` `CountVectorizer` | Model Pipeline | >90% Accuracy | Standard | Enhanced email filtering | [View Source](#) |
-
-
-</details>
-
-
-<details>
-<summary><b>Hand Gesture Recognition</b></summary>
-<br>
-
-
-Created a real-time gesture tracking system using OpenCV for hand sign language recognition.
-
-
-| Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| `Python` `TensorFlow` `Keras` `OpenCV` | Local Compute | Real-time | Standard | Accessibility innovation | [View Source](#) |
+| Stack | Scale | Performance | Impact | Repository |
+| :--- | :--- | :--- | :--- | :--- |
+| `Python` `Scikit-learn` `Pandas` `NumPy` `Matplotlib` | Local/Edge | High | Improved water efficiency and yield | [View Source](#) |
 
 
 </details>
@@ -158,21 +177,25 @@ Created a real-time gesture tracking system using OpenCV for hand sign language 
 
 
 <div align="center">
-  <h2>Experience</h2>
+  <h2>Training and Experience</h2>
 </div>
 
 
-### Data Science Trainee | DEPI
-**Jun 2025 - Dec 2025**
-*Comprehensive Data Science Training Program.*
-* Engaged in end-to-end data science workflows, model building, and analysis.
-* **Skills:** `Python` `Machine Learning` `Data Analysis`
+### Agentic AI and Generative AI System Developer | DEPI
+**2026**
+*Comprehensive training in building agentic AI systems and generative AI applications.*
+* **Skills:** `Python` `LangChain` `LangGraph` `AI Agents` `RAG`
+
+
+### LLMs Intern | Tips Hindawi
+**2026**
+*Applied LLMs internship focused on building real-world AI-powered projects.*
+* **Skills:** `Large Language Models` `Prompt Engineering` `AI Application Development`
 
 
 ### Machine Learning Trainee | GTC
-**Aug 2025 - Sep 2025**
-*Intensive Machine Learning Training.*
-* Focused on developing and evaluating machine learning algorithms.
+**2026**
+*Intensive machine learning training program.*
 * **Skills:** `Machine Learning` `Scikit-learn` `Model Optimization`
 
 
@@ -180,15 +203,15 @@ Created a real-time gesture tracking system using OpenCV for hand sign language 
 
 
 <div align="center">
-  <h2>Achievements</h2>
+  <h2>Languages</h2>
 </div>
 
 
-| Recognition | Details |
-| :--- | :--- |
-| **Language Proficiency** | English (B2) |
-| **Language Proficiency** | German (B2) |
-| **Academic Standing** | Pursuing B.Sc. in Computer Science at Alexandria University (Expected 2027) |
+| Language | Proficiency |
+| :--- | :---: |
+| **Arabic** | Native |
+| **English** | B2 |
+| **German** | B2 |
 
 
 ---
@@ -200,8 +223,8 @@ Created a real-time gesture tracking system using OpenCV for hand sign language 
 
 
 <div align="center">
-  <img src="https://img.shields.io/badge/DeepLearning.AI-Machine_Learning_Specialization-7b2cbf?style=for-the-badge&logo=coursera&logoColor=white" alt="DeepLearning.AI" />
-  <img src="https://img.shields.io/badge/DEPI-Data_Science_Training_Program-9d4edd?style=for-the-badge&logo=data&logoColor=white" alt="DEPI" />
+  <img src="https://img.shields.io/badge/DEPI-Agentic_AI_&_Generative_AI-7b2cbf?style=for-the-badge&logo=data&logoColor=white" alt="DEPI Agentic AI" />
+  <img src="https://img.shields.io/badge/Tips_Hindawi-LLMs_Internship-9d4edd?style=for-the-badge&logo=code&logoColor=white" alt="Tips Hindawi" />
   <img src="https://img.shields.io/badge/GTC-Machine_Learning_Training-c77dff?style=for-the-badge&logo=code&logoColor=white" alt="GTC" />
 </div>
 
@@ -288,6 +311,6 @@ Current_Status:
     - Optimization techniques for Neural Networks (CNNs/RNNs)
     - Robust MLOps workflows using MLflow
   Open_To:
-    - Generative AI Engineering roles
+    - Applied AI Engineering roles
     - Machine Learning and Data Science opportunities
 ```
