@@ -256,10 +256,6 @@ Built an ML-powered smart irrigation system using IoT sensor data to predict opt
   <img src="https://github-readme-stats-nine-rho.vercel.app/api?username=Iabdallllah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9d4edd&icon_color=c77dff&text_color=c9d1d9&v=1" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iabdallllah&theme=tokyonight&hide_border=true&background=0d1117&ring=9d4edd&fire=c77dff&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=9d4edd&sideLabels=9d4edd&dates=c9d1d9" alt="GitHub Streak" width="48%" />
 </div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats-nine-rho.vercel.app/api/top-langs/?username=Iabdallllah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9d4edd&text_color=c9d1d9&v=1" alt="Top Languages" width="60%" />
-</div>
 
 
 ---
