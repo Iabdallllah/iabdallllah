@@ -1,101 +1,107 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Abdallah%20Khalifa&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=iabdallllah">
+    <img src="https://komarev.com/ghpvc/?username=iabdallllah&label=Profile%20views&color=00FFFF&style=flat-square" alt="iabdallllah's profile views" />
+  </a>
+</p>
+
+<img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
+
+## 📌 About Me
+- I am an Applied AI Engineer and Computer Science student at Alexandria University (Expected Graduation: June 2027), focused on designing and deploying practical Generative AI, RAG pipelines, Agentic AI workflows, and end-to-end Machine Learning systems.
+
+
+## 🧠 My Focus Areas
+- Agentic AI & LangChain
+- Intelligent systems with RAG pipelines
+- Advanced LLM application development
+
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/iabdallllah">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iabdallllah&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="iabdallllah's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=iabdallllah&theme=nightowl&hide_border=true&cache_seconds=86400" alt="iabdallllah's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=iabdallllah&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Abdallah Khalifa's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=iabdallllah&theme=nightowl&radius=10" alt="iabdallllah's Activity Graph" />
+</p>
+<p align="center">
+  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+</p>
+
+
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
+
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />
+
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />
+
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />
+
+</p>
+
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/iabdallllah">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iabdallllah&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdallllah/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://wa.me/2001208859892">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:abdallah.khalifa@proton.me">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://abdallai.vercel.app/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img src="./dark.svg" alt="Abdallah Khalifa — Applied AI Engineer | Generative AI, RAG Pipelines, AI Agents, and Machine Learning" width="100%">
-</picture>
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-abdalllah.me-0F172A?style=for-the-badge&logo=googlechrome&logoColor=22D3EE&labelColor=030712)](http://abdalllah.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-abdallllah-0F172A?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=030712)](https://www.linkedin.com/in/abdallllah/)
-[![GitHub](https://img.shields.io/badge/GitHub-Iabdallllah-0F172A?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=030712)](https://github.com/Iabdallllah)
-[![Email](https://img.shields.io/badge/Email-abdallah.khalifa%40proton.me-0F172A?style=for-the-badge&logo=protonmail&logoColor=10B981&labelColor=030712)](mailto:abdallah.khalifa@proton.me)
-
-</div>
-
----
-
-## `// ABOUT & CURRENT FOCUS`
-
-I am an **Applied AI Engineer** and Computer Science student at **Alexandria University** (Expected Graduation: June 2027), focused on designing and deploying practical **Generative AI**, **RAG pipelines**, **Agentic AI workflows**, and **end-to-end Machine Learning systems**.
-
-| Dimension | Focus Areas |
-| :--- | :--- |
-| **Learning** | Advanced LLM application development, Agentic AI & LangChain |
-| **Building** | Intelligent systems with RAG pipelines, end-to-end ML services with FastAPI & Flask |
-| **Exploring** | Neural Network optimization (CNNs/RNNs), MLOps workflows with MLflow |
-| **Open To** | Applied AI Engineering, Machine Learning, and Data Science roles |
-
----
-
-## `// FEATURED PROJECTS`
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>Voxora — AI Interviewer</h3>
-      <p>Real-time AI-powered interview coaching platform with voice interaction. Analyzes CVs, understands job descriptions, conducts adaptive interviews, and generates post-session evaluations.</p>
-      <p><b>Stack:</b> <code>LangGraph</code> · <code>Groq Inference</code> · <code>FastAPI</code> · <code>Python</code></p>
-      <p><a href="https://github.com/Iabdallllah/Voxora">View Repository →</a></p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>ChatPDF — RAG System</h3>
-      <p>Interactive Retrieval-Augmented Generation (RAG) document analysis system built to index, query, and chat with large PDF documents.</p>
-      <p><b>Stack:</b> <code>LangChain</code> · <code>Vector Databases</code> · <code>LLMs</code></p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Intelligent Crop Irrigation Advisor</h3>
-      <p>ML-powered smart irrigation system using IoT sensor data (soil, temperature, humidity, rainfall) to predict optimal watering schedules.</p>
-      <p><b>Stack:</b> <code>Python</code> · <code>Scikit-learn</code> · <code>Pandas</code> · <code>NumPy</code> · <code>Matplotlib</code></p>
-    </td>
-  </tr>
-</table>
-
----
-
-## `// TRAINING, EXPERIENCE & CERTIFICATIONS`
-
-| Role / Program | Organization | Year | Core Competencies & Certification |
-| :--- | :--- | :--- | :--- |
-| **Agentic AI & Generative AI System Developer** | **DEPI** | 2026 | `Python` · `LangChain` · `LangGraph` · `AI Agents` · `RAG` *(Certified)* |
-| **LLMs Intern** | **Tips Hindawi** | 2026 | `LLMs` · `Prompt Engineering` · `AI Application Development` *(Certified)* |
-| **Machine Learning Trainee** | **GTC** | 2026 | `Machine Learning` · `Scikit-learn` · `Model Optimization` *(Certified)* |
-
----
-
-## `// ENGINEERING STACK & SKILLS`
-
-| Domain | Proficiency | Technologies & Methods |
-| :--- | :--- | :--- |
-| **Generative AI** | Advanced | LLMs, RAG, Agentic AI, Prompt Engineering, LangChain, LangGraph, AI Application Development |
-| **Machine Learning** | Advanced | Scikit-learn, Model Evaluation and Optimization |
-| **Deep Learning** | Advanced | TensorFlow, Keras, PyTorch, Neural Networks, CNNs, RNNs/LSTMs |
-| **Data Processing** | Advanced | NumPy, Pandas, Matplotlib |
-| **Computer Vision** | Intermediate | OpenCV |
-| **MLOps & Deployment** | Intermediate | MLflow, FastAPI, Flask, Model Deployment, Version Control, Reproducibility |
-| **Programming & Tools** | Proficient | Python, SQL, Bash, Git, GitHub, Jupyter Notebook, VS Code, Linux |
-| **Professional Skills** | Proficient | Problem Solving, Analytical Thinking, Communication, Teamwork, Adaptability, Time Management |
-
----
-
-## `// EDUCATION & LANGUAGES`
-
-- **Degree:** B.Sc. in Computer Science — **Alexandria University, Faculty of Science** *(Expected Graduation: June 2027)*
-- **Relevant Coursework:** Data Structures and Algorithms, Statistics, Database Systems, Artificial Intelligence, Machine Learning, Data Visualization, Computer Networks
-- **Languages:** Arabic *(Native)* · English *(B2)* · German *(B2)*
-
----
-
-## `// CODING PROFILES & CONNECT`
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Iabdallllah-0F172A?style=flat-square&logo=leetcode&logoColor=F59E0B)](https://leetcode.com/u/Iabdallllah/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Iabdallllah-0F172A?style=flat-square&logo=geeksforgeeks&logoColor=10B981)](https://www.geeksforgeeks.org/user/Iabdallllah/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Iabdallllah-0F172A?style=flat-square&logo=hackerrank&logoColor=22D3EE)](https://www.hackerrank.com/profile/Iabdallllah)
-
-**Location:** Alexandria, Egypt  |  **Email:** [abdallah.khalifa@proton.me](mailto:abdallah.khalifa@proton.me)  |  **Phone:** `+201208859892`  |  **Portfolio:** [abdalllah.me](http://abdalllah.me)
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
