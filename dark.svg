@@ -1,9 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" fill="none" role="img" aria-label="Abdallah Khalifa — Applied AI Engineer specializing in Generative AI, LLM-Powered Applications, RAG Pipelines, AI Agents, and Machine Learning">
-  <title>Abdallah Khalifa — Applied AI Engineer</title>
-  <desc>Interactive terminal and system dashboard profile banner for Abdallah Khalifa, Applied AI Engineer in Alexandria, Egypt. Showcases Generative AI, RAG Pipelines, Agentic AI, Machine Learning stack, and featured systems.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" fill="none">
+  <title>Abdallah Khalifa - Applied AI Engineer</title>
+  <desc>Interactive terminal and system dashboard profile banner for Abdallah Khalifa, Applied AI Engineer in Alexandria, Egypt.</desc>
 
   <defs>
-    <!-- Background & Ambient Gradients -->
     <linearGradient id="bg-base" x1="0" y1="0" x2="1180" y2="610" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#030712" />
       <stop offset="52%" stop-color="#07111F" />
@@ -31,7 +30,6 @@
       <stop offset="100%" stop-color="#10B981" stop-opacity="0" />
     </radialGradient>
 
-    <!-- Animated Border & Accent Gradient -->
     <linearGradient id="border-shimmer" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.65">
         <animate attributeName="stop-color" values="#7C3AED;#22D3EE;#10B981;#7C3AED" dur="12s" repeatCount="indefinite" />
@@ -68,34 +66,23 @@
       <stop offset="100%" stop-color="#F8FAFC" stop-opacity="0" />
     </linearGradient>
 
-    <!-- Subtle Technical Grid Pattern -->
     <pattern id="tech-grid" width="24" height="24" patternUnits="userSpaceOnUse">
       <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#94A3B8" stroke-width="0.5" stroke-opacity="0.07" />
       <circle cx="24" cy="24" r="0.7" fill="#22D3EE" fill-opacity="0.14" />
     </pattern>
 
-    <!-- Scanline Overlay Pattern -->
     <pattern id="crt-lines" width="4" height="4" patternUnits="userSpaceOnUse">
       <line x1="0" y1="0" x2="4" y2="0" stroke="#030712" stroke-width="1" stroke-opacity="0.28" />
     </pattern>
 
-    <!-- Soft Glow Filter -->
-    <filter id="soft-glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="3" result="blur" />
-      <feComposite in="SourceGraphic" in2="blur" operator="over" />
-    </filter>
-
-    <!-- Outer Frame Clip -->
     <clipPath id="frame-clip">
       <rect x="16" y="16" width="1148" height="578" rx="22" />
     </clipPath>
 
-    <!-- Portrait Viewport Clip -->
     <clipPath id="portrait-clip">
       <rect x="60" y="118" width="380" height="254" rx="12" />
     </clipPath>
 
-    <!-- Typing Reveal Clip Paths for Role Rotation -->
     <clipPath id="type-clip-1">
       <rect x="634" y="196" height="24" width="190">
         <animate attributeName="width" values="0;190;190;0;0" keyTimes="0;0.08;0.21;0.24;1" dur="16s" repeatCount="indefinite" />
@@ -118,16 +105,13 @@
     </clipPath>
   </defs>
 
-  <!-- ================= MAIN OUTER CANVAS ================= -->
   <g clip-path="url(#frame-clip)" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
-    <!-- Base Surface -->
     <rect x="16" y="16" width="1148" height="578" rx="22" fill="url(#bg-base)" />
     <rect x="16" y="16" width="1148" height="578" fill="url(#orb-violet)" />
     <rect x="16" y="16" width="1148" height="578" fill="url(#orb-cyan)" />
     <rect x="16" y="16" width="1148" height="578" fill="url(#orb-emerald)" />
     <rect x="16" y="16" width="1148" height="578" fill="url(#tech-grid)" />
 
-    <!-- Subtle Floating Particles -->
     <circle cx="140" cy="96" r="1.5" fill="#22D3EE" opacity="0.45">
       <animate attributeName="cy" values="96;82;96" dur="6s" repeatCount="indefinite" />
       <animate attributeName="opacity" values="0.2;0.6;0.2" dur="6s" repeatCount="indefinite" />
@@ -142,19 +126,15 @@
       <animate attributeName="cy" values="558;542;558" dur="6.8s" repeatCount="indefinite" />
     </circle>
 
-    <!-- ================= TOP TERMINAL / EDITOR CHROME BAR ================= -->
     <rect x="16" y="16" width="1148" height="44" fill="#0F172A" fill-opacity="0.72" />
     <line x1="16" y1="60" x2="1164" y2="60" stroke="#1E293B" stroke-width="1" />
 
-    <!-- Window Controls -->
     <circle cx="44" cy="38" r="6" fill="#EF4444" fill-opacity="0.9" />
     <circle cx="64" cy="38" r="6" fill="#F59E0B" fill-opacity="0.9" />
     <circle cx="84" cy="38" r="6" fill="#10B981" fill-opacity="0.9" />
 
-    <!-- Terminal Host Prompt -->
     <text x="112" y="42" fill="#94A3B8" font-size="12" font-weight="600" letter-spacing="0.4">Iabdallllah@profile:~</text>
 
-    <!-- Editor Navigation Tabs (Decorative) -->
     <g font-size="11" fill="#64748B" letter-spacing="0.8">
       <rect x="444" y="25" width="64" height="26" rx="6" fill="#1E293B" fill-opacity="0.55" stroke="#334155" stroke-width="0.8" />
       <text x="476" y="42" fill="#22D3EE" font-weight="600" text-anchor="middle">Code</text>
@@ -163,37 +143,30 @@
       <text x="726" y="42" text-anchor="middle">Contact</text>
     </g>
 
-    <!-- Status Indicator -->
     <rect x="1044" y="26" width="98" height="24" rx="12" fill="#064E3B" fill-opacity="0.35" stroke="#10B981" stroke-width="0.8" stroke-opacity="0.6" />
     <circle cx="1060" cy="38" r="3.5" fill="#10B981">
       <animate attributeName="opacity" values="1;0.35;1" dur="2.2s" repeatCount="indefinite" />
     </circle>
     <text x="1098" y="42" fill="#6EE7B7" font-size="11" font-weight="600" letter-spacing="0.8" text-anchor="middle">ONLINE</text>
 
-    <!-- ================= LEFT COLUMN: VISUAL.MAP / IDENTITY (38.5% WIDTH) ================= -->
     <g opacity="1">
       <animate attributeName="opacity" values="0;1" dur="0.45s" fill="freeze" />
 
-      <!-- Left Glass Card -->
       <rect x="36" y="76" width="428" height="500" rx="16" fill="#0F172A" fill-opacity="0.35" stroke="#1E293B" stroke-width="1.2" />
       <rect x="36" y="76" width="428" height="500" rx="16" fill="url(#glass-reflect)" />
       <line x1="36" y1="108" x2="464" y2="108" stroke="#1E293B" stroke-width="1" />
 
-      <!-- Left Card Header -->
       <circle cx="56" cy="92" r="3.5" fill="#22D3EE" />
       <text x="68" y="96" fill="#F8FAFC" font-size="11" font-weight="700" letter-spacing="1.5">VISUAL.MAP</text>
       <text x="446" y="96" fill="#64748B" font-size="10" letter-spacing="0.8" text-anchor="end">[ ASCII.RENDER // 46x21 ]</text>
 
-      <!-- ASCII Portrait Inner Frame (Centered at x=250) -->
       <rect x="60" y="118" width="380" height="254" rx="12" fill="#030712" fill-opacity="0.68" stroke="#1E293B" stroke-width="1" />
 
-      <!-- Corner Reticles inside Portrait Frame -->
       <path d="M 68 134 L 68 126 L 76 126" stroke="#22D3EE" stroke-width="1.2" stroke-opacity="0.7" />
       <path d="M 432 134 L 432 126 L 424 126" stroke="#22D3EE" stroke-width="1.2" stroke-opacity="0.7" />
       <path d="M 68 356 L 68 364 L 76 364" stroke="#7C3AED" stroke-width="1.2" stroke-opacity="0.7" />
       <path d="M 432 356 L 432 364 L 424 364" stroke="#7C3AED" stroke-width="1.2" stroke-opacity="0.7" />
 
-      <!-- Dense Monospace ASCII Portrait (Head + Shoulders + Upper Chest, Centered at x=250) -->
       <g clip-path="url(#portrait-clip)">
         <g font-size="9.5" font-weight="600" letter-spacing="1.15" text-anchor="middle" fill="url(#ascii-grad)">
           <animateTransform attributeName="transform" type="translate" values="0,0; 0,-2.5; 0,0" dur="6s" repeatCount="indefinite" />
@@ -220,20 +193,17 @@
           <text x="250" y="336" opacity="0.76"># @ @ @ @ % # * + : . · · . : + * # % @ @ @ @ #<animate attributeName="opacity" values="0;0.76" dur="0.2s" begin="0.65s" fill="freeze" /></text>
         </g>
 
-        <!-- CRT Scanline Texture & Animated Horizontal Sweep -->
         <rect x="60" y="118" width="380" height="254" fill="url(#crt-lines)" />
         <rect x="60" y="118" width="380" height="2.5" fill="url(#scanline-grad)">
           <animate attributeName="y" values="118;368;118" dur="7s" repeatCount="indefinite" />
           <animate attributeName="opacity" values="0.2;0.75;0.2" dur="7s" repeatCount="indefinite" />
         </rect>
 
-        <!-- Bottom Telemetry Bar inside Portrait Viewport -->
         <rect x="60" y="346" width="380" height="26" fill="#07111F" fill-opacity="0.82" />
         <text x="74" y="363" fill="#22D3EE" font-size="9.5" letter-spacing="0.8">ID: ABDALLAH.KHALIFA</text>
         <text x="426" y="363" fill="#94A3B8" font-size="9.5" letter-spacing="0.8" text-anchor="end">ALEXANDRIA, EG</text>
       </g>
 
-      <!-- Left Identity Summary Block (Centered at x=250) -->
       <rect x="134" y="388" width="232" height="24" rx="12" fill="#1E1B4B" fill-opacity="0.55" stroke="#7C3AED" stroke-width="0.9" stroke-opacity="0.7" />
       <text x="250" y="404" fill="#C4B5FD" font-size="10.5" font-weight="600" letter-spacing="1.2" text-anchor="middle">[ PROFILE / AI ENGINEERING ]</text>
 
@@ -241,7 +211,6 @@
       <text x="250" y="460" fill="#94A3B8" font-size="11.5" letter-spacing="0.3" text-anchor="middle">Generative AI · RAG Pipelines · AI Agents · ML</text>
       <text x="250" y="480" fill="#64748B" font-size="11" letter-spacing="0.2" text-anchor="middle">B.Sc. CS @ Alexandria University (2027)</text>
 
-      <!-- Bottom Left Terminal Command Bar -->
       <rect x="60" y="516" width="380" height="40" rx="10" fill="#030712" fill-opacity="0.65" stroke="#1E293B" stroke-width="1" />
       <text x="78" y="540" fill="#10B981" font-size="11.5" font-weight="600">~/Iabdallllah</text>
       <text x="176" y="540" fill="#22D3EE" font-size="11.5" font-weight="600">$</text>
@@ -251,51 +220,40 @@
       </rect>
     </g>
 
-    <!-- ================= RIGHT COLUMN: SYSTEM.INFO (61.5% WIDTH) ================= -->
     <g opacity="1">
       <animate attributeName="opacity" values="0;1" dur="0.55s" fill="freeze" />
 
-      <!-- Right Glass Card -->
       <rect x="482" y="76" width="662" height="500" rx="16" fill="#0F172A" fill-opacity="0.35" stroke="#1E293B" stroke-width="1.2" />
       <rect x="482" y="76" width="662" height="500" rx="16" fill="url(#glass-reflect)" />
       <line x1="482" y1="108" x2="1144" y2="108" stroke="#1E293B" stroke-width="1" />
 
-      <!-- Right Card Header -->
       <circle cx="502" cy="92" r="3.5" fill="#7C3AED" />
       <text x="514" y="96" fill="#F8FAFC" font-size="11" font-weight="700" letter-spacing="1.5">SYSTEM.INFO</text>
       <text x="1124" y="96" fill="#94A3B8" font-size="11" letter-spacing="0.4" text-anchor="end">Iabdallllah@profile:~$ <tspan fill="#22D3EE">./profile.sh</tspan></text>
 
-      <!-- Hero Identity Section inside SYSTEM.INFO -->
       <text x="508" y="148" fill="#F8FAFC" font-size="28" font-weight="700" letter-spacing="0.4">Abdallah Khalifa</text>
       <rect x="810" y="128" width="154" height="24" rx="12" fill="#083344" fill-opacity="0.55" stroke="#22D3EE" stroke-width="0.9" stroke-opacity="0.7" />
       <text x="887" y="144" fill="#67E8F9" font-size="10.5" font-weight="600" letter-spacing="0.8" text-anchor="middle">OPEN TO AI / ML ROLES</text>
 
       <text x="508" y="174" fill="url(#accent-grad)" font-size="13.5" font-weight="700" letter-spacing="0.5">AI ENGINEER  |  GENERATIVE AI  |  AGENTIC AI  |  MACHINE LEARNING</text>
 
-      <!-- Animated Role Rotation Line -->
       <line x1="508" y1="188" x2="1118" y2="188" stroke="#1E293B" stroke-width="1" />
 
-      <!-- Balanced Grid: Right-Aligned Labels (x=618), Left-Aligned Values (x=634) -->
       <text x="618" y="213" fill="#22D3EE" font-size="11.5" font-weight="600" letter-spacing="0.8" text-anchor="end">> ACTIVE.MODE</text>
 
-      <!-- Role 1 -->
       <g clip-path="url(#type-clip-1)">
         <text x="634" y="213" fill="#F8FAFC" font-size="12.5" font-weight="600">Applied AI Engineer</text>
       </g>
-      <!-- Role 2 -->
       <g clip-path="url(#type-clip-2)">
         <text x="634" y="213" fill="#67E8F9" font-size="12.5" font-weight="600">LLM-Powered Applications</text>
       </g>
-      <!-- Role 3 -->
       <g clip-path="url(#type-clip-3)">
         <text x="634" y="213" fill="#C4B5FD" font-size="12.5" font-weight="600">RAG Pipelines & AI Agents</text>
       </g>
-      <!-- Role 4 -->
       <g clip-path="url(#type-clip-4)">
         <text x="634" y="213" fill="#6EE7B7" font-size="12.5" font-weight="600">Machine Learning & Data Science</text>
       </g>
 
-      <!-- System Key-Value Rows -->
       <text x="618" y="237" fill="#94A3B8" font-size="11.5" font-weight="600" letter-spacing="0.8" text-anchor="end">> EDUCATION</text>
       <text x="634" y="237" fill="#E2E8F0" font-size="12">B.Sc. in Computer Science — Alexandria University <tspan fill="#94A3B8">(Expected June 2027)</tspan></text>
 
@@ -310,10 +268,8 @@
 
       <line x1="508" y1="325" x2="1118" y2="325" stroke="#1E293B" stroke-width="1" />
 
-      <!-- ================= SELECTED TECH STACK PILLS ================= -->
       <text x="508" y="346" fill="#94A3B8" font-size="10.5" font-weight="700" letter-spacing="1.4">SELECTED TECH STACK // CORE CAPABILITIES</text>
 
-      <!-- Row 1 Pills -->
       <g transform="translate(508, 356)" font-size="11" font-weight="600">
         <rect x="0" y="0" width="84" height="26" rx="7" fill="#0F172A" fill-opacity="0.8" stroke="#22D3EE" stroke-width="0.9" stroke-opacity="0.65" />
         <circle cx="13" cy="13" r="3" fill="#22D3EE" />
@@ -340,7 +296,6 @@
         <text x="577" y="17" fill="#F8FAFC" text-anchor="middle">TensorFlow</text>
       </g>
 
-      <!-- Row 2 Pills -->
       <g transform="translate(508, 390)" font-size="11" font-weight="600">
         <rect x="0" y="0" width="108" height="26" rx="7" fill="#0F172A" fill-opacity="0.8" stroke="#334155" stroke-width="0.9" />
         <circle cx="13" cy="13" r="3" fill="#10B981" />
@@ -369,31 +324,26 @@
 
       <line x1="508" y1="428" x2="1118" y2="428" stroke="#1E293B" stroke-width="1" />
 
-      <!-- ================= FEATURED PROJECTS ================= -->
       <text x="508" y="448" fill="#94A3B8" font-size="10.5" font-weight="700" letter-spacing="1.4">FEATURED AI & ML SYSTEMS</text>
 
-      <!-- Project 1 -->
       <rect x="508" y="458" width="196" height="62" rx="10" fill="#030712" fill-opacity="0.55" stroke="#1E293B" stroke-width="1" />
       <circle cx="522" cy="474" r="3" fill="#22D3EE" />
       <text x="532" y="478" fill="#F8FAFC" font-size="11.5" font-weight="700">Voxora — AI Interviewer</text>
       <text x="520" y="495" fill="#94A3B8" font-size="10">Voice AI interview coach</text>
       <text x="520" y="510" fill="#67E8F9" font-size="9.5">LangGraph · Groq · FastAPI</text>
 
-      <!-- Project 2 -->
       <rect x="714" y="458" width="196" height="62" rx="10" fill="#030712" fill-opacity="0.55" stroke="#1E293B" stroke-width="1" />
       <circle cx="728" cy="474" r="3" fill="#A78BFA" />
       <text x="738" y="478" fill="#F8FAFC" font-size="11.5" font-weight="700">ChatPDF — RAG System</text>
       <text x="726" y="495" fill="#94A3B8" font-size="10">Interactive PDF QA engine</text>
       <text x="726" y="510" fill="#C4B5FD" font-size="9.5">LangChain · Vector DB · LLMs</text>
 
-      <!-- Project 3 -->
       <rect x="920" y="458" width="198" height="62" rx="10" fill="#030712" fill-opacity="0.55" stroke="#1E293B" stroke-width="1" />
       <circle cx="934" cy="474" r="3" fill="#10B981" />
       <text x="944" y="478" fill="#F8FAFC" font-size="11.5" font-weight="700">Crop Irrigation Advisor</text>
       <text x="932" y="495" fill="#94A3B8" font-size="10">IoT sensor smart watering ML</text>
       <text x="932" y="510" fill="#6EE7B7" font-size="9.5">Python · Scikit-learn · Pandas</text>
 
-      <!-- ================= LINKS FOOTER BAR ================= -->
       <rect x="508" y="530" width="610" height="32" rx="8" fill="#030712" fill-opacity="0.6" stroke="#1E293B" stroke-width="1" />
       <text x="524" y="550" fill="#22D3EE" font-size="10.5" font-weight="600">PORTFOLIO:</text>
       <text x="594" y="550" fill="#E2E8F0" font-size="10.5">abdalllah.me</text>
@@ -409,6 +359,5 @@
     </g>
   </g>
 
-  <!-- Outer Rounded Luminous Frame Border -->
   <rect x="16" y="16" width="1148" height="578" rx="22" fill="none" stroke="url(#border-shimmer)" stroke-width="1.6" />
 </svg>
