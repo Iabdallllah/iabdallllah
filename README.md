@@ -21,7 +21,6 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/iabdallllah">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iabdallllah&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="iabdallllah's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=iabdallllah&theme=dark&hide_border=true&cache_seconds=86400" alt="iabdallllah's GitHub Streak" width="49%" />
 </p>
@@ -29,16 +28,8 @@
   <img src="https://trophy.ryglcloud.net/?username=iabdallllah&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Abdallah Khalifa's GitHub Trophies" />
 </p>
 <div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
 
-
-## 🛠️ Languages & Tools
-<p align="center">
-  <a href="https://github.com/iabdallllah">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iabdallllah&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
 
 ## 🔗 Connect with Me
 <p align="center">
